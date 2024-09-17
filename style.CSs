@@ -1,0 +1,33 @@
+.heading {
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.menu{
+    background-color: lightcoral;
+
+    height: 400px;
+    width: 30%;
+    float: left;
+
+
+}
+
+.innehål{
+    background-color: blanchedalmond;
+    float: left;
+    width: 70%;
+    height: 400px;
+    text-align: center;
+
+}
+
+.foot{
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 20%;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.CSs">
+</head>
+<body>
+  <div class="heading"><h1>Countries</h1></div> 
+  
+  <div class="menu">
+    <a href="nigeria">Nigeria</a><br />
+    <a href="peru">Peru</a><br  />
+    <a href="england">England</a><br />
+    <a href="index.html">Sweden</a>
+    </div>
+  
+  <div class="innehål"><h1>England</h1>
+    <p>England gillar att äta bönor med bröd som frukost</p>
+  
+  <img src="image.england.png">
+</div>
+
+  <div class="foot">footer</div>
+  
+    
+</body>
